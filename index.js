@@ -7,6 +7,7 @@ const autoCompleteConfig = {
     `;
   },
   onOptionSelect(movie) {
+    document.querySelector('.tutorial').classList.add('is-hidden');
     onMovieSelect(movie);
   },
   inputValue(movie) {
@@ -15,7 +16,7 @@ const autoCompleteConfig = {
   async fetchData(searchTerm) {
     const response = await axios.get('http://www.omdbapi.com/', {
       params: {
-        apikey: '',
+        apikey: '30f74663',
         s: searchTerm
       }
     });
@@ -40,7 +41,7 @@ createAutoComplete({
 const onMovieSelect = async (movie) => {
   const response = await axios.get('http://www.omdbapi.com/', {
     params: {
-      apikey: '30f74663',
+      apikey: '',
       i: movie.imdbID
     }
   });
