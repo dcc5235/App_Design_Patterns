@@ -1,4 +1,10 @@
-const createAutoComplete = ({ root, renderOption, onOptionSelect, inputValue, fetchData }) => {
+const createAutoComplete = ({ 
+    root, // some HTML element inside doc 
+    renderOption, // func responsible for rendering each autocomplete item
+    onOptionSelect, // func called any time results are clicked
+    inputValue, // click on result updates input
+    fetchData // taking user text input and runs search/retrieves data from API 
+  }) => {
   root.innerHTML = `
     <label><b>Search</b></label>
     <input class="input" />
