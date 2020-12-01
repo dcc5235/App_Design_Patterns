@@ -18,6 +18,7 @@ A responsive, REST API & JavaScript focused project which allows users to pull d
   ![](https://bit.ly/2UnzumJ)
   
 - [Bulma](https://bulma.io/) CSS framework required
+- Install & set up [Mocha](https://mochajs.org/#running-mocha-in-the-browser)
 
 ---
 
