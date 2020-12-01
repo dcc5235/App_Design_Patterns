@@ -19,6 +19,7 @@ A responsive, REST API & JavaScript focused project which allows users to pull d
   
 - [Bulma](https://bulma.io/) CSS framework required
 - Install & set up [Mocha](https://mochajs.org/#running-mocha-in-the-browser)
+- [Chai Assertion Library](https://www.chaijs.com/) to write assertions for testing
 
 ---
 
