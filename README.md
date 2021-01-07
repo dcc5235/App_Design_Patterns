@@ -4,7 +4,7 @@
 
 A responsive, REST API & JavaScript focused project which allows users to pull data from the OMDb API to compare and contrast movie awards, metascore, IMDB rating, and IMDB voting.
 
-![](https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/125255223_1256385504739288_2391008887479603317_n.jpg?_nc_cat=104&ccb=2&_nc_sid=0debeb&_nc_ohc=_pfIuXrJiSEAX9CK_5-&_nc_ht=scontent.fdpa1-1.fna&oh=5eb66519bc9ba8b06d6c434fa3cc364b&oe=5FD130D4)
+![](https://bit.ly/39dZ44z)
 
 ---
 
