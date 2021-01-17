@@ -15,7 +15,7 @@ A responsive, REST API & JavaScript focused project which allows users to pull d
   
   Enter key ID in index.js file
   
-  ![](https://bit.ly/2UnzumJ)
+  ![](https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/124636157_1256390774738761_4680375080510994500_n.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=9RcAX3wtK-sAX8Be6RW&_nc_ht=scontent.fdpa1-1.fna&oh=c81a969eed0b69f45412cff1ea7709b6&oe=602A2D13)
   
 - [Bulma](https://bulma.io/) CSS framework required
 - Install & set up [Mocha](https://mochajs.org/#running-mocha-in-the-browser)
@@ -33,12 +33,12 @@ Code | Features
 ## Code1
 autocomplete.js
 
-![](https://bit.ly/38B0qI5)
+![](https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/124652975_1256392268071945_7962206771255315259_n.jpg?_nc_cat=109&ccb=2&_nc_sid=0debeb&_nc_ohc=_xJbqKzSHzgAX_iX1I0&_nc_ht=scontent.fdpa1-1.fna&oh=82b4f77f7efab079428309b75d44a79b&oe=60277F83)
 
 ## Code2
 index.js
 
-![](https://bit.ly/3eSLN3Q)
+![](https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/124446211_1256398391404666_3331652093730422908_n.jpg?_nc_cat=108&ccb=2&_nc_sid=0debeb&_nc_ohc=RmJPS4VO2XoAX9XWHI_&_nc_ht=scontent.fdpa1-1.fna&oh=e0a04acb5e825b5e6bacc8276cffb848&oe=6029DCA9)
 
 ---
 
